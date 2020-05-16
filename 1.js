@@ -8,3 +8,4 @@ console.log ('hello');
     console.log ('foo || baz()');
 console.log ('hello1');
 console.log ('hello222');
+console.log ('999');
