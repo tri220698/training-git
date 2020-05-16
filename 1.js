@@ -4,3 +4,4 @@ baz = function() {
     foo = false;
     console.log (foo && baz());
     console.log (foo || baz());
+console.log ('hello');
