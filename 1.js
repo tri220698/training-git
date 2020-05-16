@@ -7,4 +7,4 @@ baz = function() {
 console.log ('hello');
     console.log ('foo || baz()');
 console.log ('hello1');
-console.log ('hello2');
+console.log ('hello222');
