@@ -5,3 +5,4 @@ baz = function() {
     console.log (foo && baz());
     console.log (foo || baz());
 console.log ('hello');
+    console.log ('foo || baz()');
